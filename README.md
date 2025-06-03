@@ -3,7 +3,9 @@
 A simple and secure password generating app that allows users to create complex passwords in seconds and copy it anywhere.
 
 ___
+![screenshot-generator](https://github.com/user-attachments/assets/caf409a0-7814-4a45-8549-f6d2f573ecf1)
 
+___
 ## Features
 
 - Generate secure random passwords
